@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/chibu.jpg";
+import image from "../images/img1.jpg";
 
 const imageAltText = "A boy wearing glasses and smiling at the camera. His name is Chibu and he's happy to see you";
 

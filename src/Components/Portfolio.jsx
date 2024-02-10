@@ -39,9 +39,7 @@ const projectList = [
   {
     title: "Pig Dice",
     description:
-      "A fun game for friends to play. Developed to improve my knowledge of Javascript. Working on implemnting realtime connection with web sockets for realtime online play. Best viewed on desktop 😎
-
-      ",
+      "A fun game for friends to play. Developed to improve my knowledge of Javascript. Working on implemnting realtime connection with web sockets for realtime online play. Best viewed on desktop 😎",
     url: "https://pig-game-alpha-nine.vercel.app/",
   },
   {

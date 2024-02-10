@@ -42,6 +42,8 @@ section img.background {
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
+  background-attachment: fixed;  
+  background-position: center;
   z-index: -1;
 }
 
